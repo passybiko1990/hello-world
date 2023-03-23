@@ -30,8 +30,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-   <h1> Thank You Tomcat!</h1>
   <h1> I was here!</h1>
   <h1> Well come to Ansible!</h1>
   <h1> Kubernetes cluster is here!</h1>
