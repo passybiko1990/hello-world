@@ -32,7 +32,6 @@
   </div>
   <h1> I was here!</h1>
   <h1> Well come to Ansible!</h1>
-  <h1> Kubernetes cluster is here!</h1>
 
   
 </form>
